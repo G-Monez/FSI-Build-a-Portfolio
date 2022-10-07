@@ -1,0 +1,50 @@
+html {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: #5b714e;
+    font-family: copperplate;
+    border: 6px double green;
+    background-color: skyblue;
+    border-radius: 100px;
+}
+
+
+h2 {
+    font-family: luminari;
+    text-align: center;
+    color: cadetblue;
+    border: 6px groove mediumaquamarine;
+    background-color: lightblue;
+    border-radius: 100px;
+}
+
+img{
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+}
+
+h3 {
+    font-family: plantagenet cherokee;
+    color: darkolivegreen;
+}
+
+.BET{
+    text-align: center;
+    color: olive;
+}
+
+.ABM{
+    text-align: center;
+    font-family: rockwell;
+}
+
+.MFV{
+    text-align: center;
+    font-family: rockwell;
+}
